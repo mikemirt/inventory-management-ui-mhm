@@ -13,8 +13,8 @@ import Header from "../pattern-components/Header";
 import "../pattern-components/patterns.scss";
 
 class StockItemList extends Component {
-  title = 'Stock Items';
-  subtitle = 'This is the current inventory of items';
+  title = 'Stock Items (Doc)';
+  subtitle = 'This is the current inventory of items (Doc)';
 
   columns = [
     "name",
