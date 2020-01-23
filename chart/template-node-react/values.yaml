@@ -27,8 +27,8 @@ ingress:
     # web or app - https://cloud.ibm.com/docs/services/appid?topic=appid-kube-auth
     requestType: web
     binding:
-      name: "binding-appid"
-      namespace: "dev"
+      name: "binding-mooc-surge-ocp01-appid"
+      namespace: "dev-mhm"
 
 #  host: hello
   namespaceInHost: true
